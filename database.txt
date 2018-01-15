@@ -1,0 +1,1 @@
+{"allItems":[{"name":"Top"}],"availableItems":[],"people":[{"type":"FamilyMember","properties":{"name":"Ala","items":[]}},{"type":"FamilyMember","properties":{"name":"Bla","items":[]}},{"type":"FamilyMember","properties":{"name":"Cla","items":[]}},{"type":"FamilyFriend","properties":{"lastName":"kota","phoneNumber":"12345","name":"ala","items":[]}}]}
